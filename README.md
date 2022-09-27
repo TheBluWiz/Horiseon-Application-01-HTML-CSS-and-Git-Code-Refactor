@@ -11,6 +11,9 @@ Marketing Client wanted to update their website to make it more accessible, and 
 - We added a title
 - Updated CSS to point toward new tags
 
+## Example
+![webiste render](assets/images/splash-page.png)
+
 ## Deployment
 
-The finished website can be found: https://thebluwiz.github.io/01-HTML-CSS-and-Git-Code-Refactor/
+The finished website can be found: https://thebluwiz.github.io/Horiseon-Application-01-HTML-CSS-and-Git-Code-Refactor/
