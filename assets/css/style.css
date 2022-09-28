@@ -24,6 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Added Nav element for Accessibility and SEO */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -188,6 +189,7 @@ p {
     font-size: 36px;
 }
 
+/* Added footer element for SEO and Accesiblity */
 .footer {
     padding: 30px;
     clear: both;
