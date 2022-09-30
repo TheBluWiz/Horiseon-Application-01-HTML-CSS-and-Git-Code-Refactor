@@ -191,7 +191,8 @@ h3 {
     color: #ffffff;
 }
 
-main section img {
+/* Consolidate CSS selectors */
+/* .search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -200,6 +201,10 @@ main section img {
 }
 
 .social-media-marketing img {
+    max-height: 200px;
+} */
+
+main section img {
     max-height: 200px;
 }
 
