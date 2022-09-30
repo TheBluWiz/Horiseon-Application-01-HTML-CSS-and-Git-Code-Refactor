@@ -148,7 +148,7 @@ h3 {
     max-width: 150px;
 } */
 
-img {
+.benefit img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
@@ -191,9 +191,7 @@ img {
     color: #ffffff;
 }
 
-/* Consolidated to single CSS Selector */
-/* 
-.search-engine-optimization img {
+main section img {
     max-height: 200px;
 }
 
@@ -202,10 +200,6 @@ img {
 }
 
 .social-media-marketing img {
-    max-height: 200px;
-} */
-
-.content img {
     max-height: 200px;
 }
 
